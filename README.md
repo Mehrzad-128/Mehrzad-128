@@ -41,12 +41,9 @@ I enjoy building software beyond simply making features work — understanding t
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square\&logo=reactivex\&logoColor=white)
 
 * Angular
 * TypeScript
-* RxJS
-* Angular Material
 * HTML
 * SCSS
 * Responsive UI development
@@ -76,44 +73,12 @@ I enjoy building software beyond simply making features work — understanding t
 * Claude
 * Cursor
 * Agentic programming workflows
-* AI-assisted codebase exploration
-* AI-assisted feature development
-* AI-assisted debugging and refactoring
-* AI-assisted testing and technical research
-* Model Context Protocol (MCP)
 * Angular MCP
 * AI-powered developer tools
 
 ---
 
 # 🚀 Featured Projects
-
-## Pishahangi
-
-**SaaS platform · Ongoing**
-
-Pishahangi is an early-stage SaaS platform designed to enable children and teenagers to participate in nature, adventure, and educational programs while allowing parents to monitor their children's activities, safety, and progress.
-
-I'm contributing to the project as a **Domain Expert and Full-Stack Developer**, combining domain knowledge with technical development.
-
-### Stack
-
-`Angular 22` · `ASP.NET Core 10` · `EF Core 10` · `SQL Server` · `ASP.NET Core Identity` · `Clean Architecture`
-
-### My involvement
-
-* Contributing domain expertise to product decisions
-* Translating domain requirements into technical solutions
-* Developing across the frontend and backend
-* Working with authentication and authorization
-* Working within a Clean Architecture codebase
-* Contributing to automated testing
-* Researching and evaluating unfamiliar technologies
-* Collaborating with the development team toward an investor-facing MVP
-
-Future infrastructure being explored includes **Redis, Docker, Kubernetes, and CDN infrastructure**.
-
----
 
 ## Tara Pirayandeh
 
@@ -137,7 +102,7 @@ The project was an opportunity to combine software development with visual desig
 
 ### Stack
 
-`Angular 22` · `Angular Material` · `RxJS` · `Docker` · Animation & Multimedia Technologies
+`Angular 22` · Animation & Multimedia Technologies
 
 🌐 **[Live Website](https://tarapirayandeh.com)**
 
