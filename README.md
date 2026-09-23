@@ -83,7 +83,7 @@ Computer Science student at the **University of Isfahan** and full-stack develop
 
 Independent client project focused on responsive design, performance, animations, multimedia, and cross-browser compatibility.
 
-**Angular 22 · Angular Material · RxJS · Docker**
+**Angular 22 · RxJS · Docker**
 
 🌐 [Live Website](https://tarapirayandeh.com)
 
@@ -109,4 +109,4 @@ I've also worked with **MCP / Angular MCP**, AI-powered developer tools, and **n
 
 **Software Architecture · Distributed Systems · Redis · Docker · Kubernetes · AI Developer Tools**
 
-📫 **[LinkedIn](https://www.linkedin.com/in/mehrzad-naghiei-a7b928428)**
+📫 **[LinkedIn](https://www.linkedin.com/in/mehrzad-naghiei-472b01439/)**
