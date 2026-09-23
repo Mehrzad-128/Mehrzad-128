@@ -8,12 +8,12 @@ Computer Science student at the **University of Isfahan** and full-stack develop
 
 ## 🛠️ Tech Stack
 
-**Backend:** C# · ASP.NET Core · EF Core · REST APIs
-**Frontend:** Angular · TypeScript · RxJS · Angular Material
-**Database:** SQL Server
+**Backend:** `C#` · `ASP.NET Core` · `EF Core` · `REST APIs`
+**Frontend:** `Angular` · `TypeScript`
+**Database:** `SQL Server`
 **Architecture:** Clean Architecture · Domain Modeling · API Design
 **Tools:** Git · Docker · Visual Studio · VS Code
-**AI & Automation:** Claude · Cursor · MCP · n8n · AI coding agents
+**AI & Automation:** Claude · Cursor · MCP · AI coding agents
 
 ## 🚀 Current Project
 
