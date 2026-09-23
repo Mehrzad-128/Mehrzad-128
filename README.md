@@ -153,21 +153,6 @@ I'm interested in the intersection of software engineering and increasingly capa
 
 ---
 
-# ⚙️ Automation
-
-I also experiment with workflow automation using **n8n**.
-
-My experience includes connecting APIs and applications to automate practical workflows such as:
-
-* Sending emails
-* Calling and consuming APIs
-* Integrating applications such as Telegram
-* Connecting automated workflows with software systems
-
-I'm particularly interested in using automation to remove repetitive work and connect otherwise isolated systems.
-
----
-
 # 📈 Currently Learning & Exploring
 
 My current interests are centered around becoming a stronger backend and software engineer.
