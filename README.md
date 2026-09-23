@@ -60,10 +60,6 @@ Computer Science student at the **University of Isfahan** and full-stack develop
 * Claude
 * Cursor
 * Agentic programming workflows
-* AI-assisted codebase exploration
-* AI-assisted feature development
-* AI-assisted debugging and refactoring
-* AI-assisted testing and technical research
 * Model Context Protocol (MCP)
 * Angular MCP
 * AI-powered developer tools
@@ -77,23 +73,11 @@ Computer Science student at the **University of Isfahan** and full-stack develop
 * n8n
 * REST API integrations
 * Automated workflows
-* Telegram integrations
 * Email automation
 
 ---
 
-## 🚀 Current Project
-
-### Pishahangi
-
-Early-stage SaaS platform for children's nature, adventure, and educational programs, with parent activity and progress monitoring.
-
-**Role:** Domain Expert & Full-Stack Developer
-**Stack:** Angular 22 · ASP.NET Core 10 · EF Core 10 · SQL Server · Identity · Clean Architecture
-
-I contribute to domain decisions, technical implementation, architecture, authentication, testing, and research of technologies required by the product.
-
-## 💻 Other Projects
+## 💻 My Projects
 
 ### Tara Pirayandeh
 
